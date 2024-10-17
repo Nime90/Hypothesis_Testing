@@ -1,7 +1,7 @@
 import os
 ############Insert here the test you want to perform: ############
 
-import Tests.FactorialAnova
+import Tests.ChiSquare
 
 ########### Do not  touch below this line #######################
 

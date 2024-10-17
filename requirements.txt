@@ -1,8 +1,6 @@
-numpy
-os
 pandas
 pingouin
 scikit_posthocs
 scipy
 statsmodels
-warnings
+openpyxl
